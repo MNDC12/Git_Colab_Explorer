@@ -1,4 +1,4 @@
-# Git Colab Explorer
+# Git Python Explorer
 ##### In this repository, I briefly explore the basics of Git, Colab, Spyder & Jupyter.
 
 HW1_200917_MNDC.ipynb is the Colab Explorer. <br/>
